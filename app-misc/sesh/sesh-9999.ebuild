@@ -7,7 +7,6 @@ HOMEPAGE="https://github.com/joshmedeski/sesh"
 EGIT_REPO_URI="https://github.com/joshmedeski/sesh.git"
 LICENSE="MIT"
 SLOT="0"
-KEYWORDS="~amd64"
 IUSE=""
 
 DEPEND=">=dev-lang/go-1.21"
